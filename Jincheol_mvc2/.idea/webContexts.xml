@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/04Cookie/CookieMain.jsp" value="file://$PROJECT_DIR$/src/main/webapp/04Cookie" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/07ActionTag/ForwardMain.jsp" value="file://$PROJECT_DIR$/src/main/webapp/07ActionTag" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/07ActionTag/IncludeMain.jsp" value="file://$PROJECT_DIR$/src/main/webapp/07ActionTag" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/07ActionTag/inc/OuterPage2.jsp" value="file://$PROJECT_DIR$/src/main/webapp/07ActionTag/inc" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/08Board/Edit.jsp" value="file://$PROJECT_DIR$/src/main/webapp/08Board" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/14MVCBoard/List.jsp" value="file://$PROJECT_DIR$/src/main/webapp/14MVCBoard" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/ConnectionTest.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+      </map>
+    </option>
+  </component>
+</project>
